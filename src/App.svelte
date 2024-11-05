@@ -69,7 +69,7 @@
           if (!closeActive) toggleHighlight(marker, property, icon)
         })
       })
-  }
+    }
 
     const REGIONS = ['bello', 'medellin', 'caldas', 'sabaneta', 'envigado', 'girardota', 'itagui', 'copacabana', 'estrella']
     Object.freeze(REGIONS)
